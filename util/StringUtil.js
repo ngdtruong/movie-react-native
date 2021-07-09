@@ -1,0 +1,1 @@
+export const youtubeApiKey = 'AIzaSyCcQqM2JBTkUKtPF12CabcViZBtk1PVmYE';
